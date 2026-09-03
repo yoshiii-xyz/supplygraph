@@ -1,0 +1,17 @@
+{
+  "advisories": [
+    {
+      "id": "RUSTSEC-EXAMPLE-0001",
+      "summary": "Example advisory record for parser tests",
+      "affected": [
+        {
+          "package": {
+            "ecosystem": "crates.io",
+            "name": "example-package"
+          },
+          "versions": ["0.1.0"]
+        }
+      ]
+    }
+  ]
+}

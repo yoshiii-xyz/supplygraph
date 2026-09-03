@@ -1,0 +1,4 @@
+[audits]
+example-package = [
+  { version = "0.1.0", criteria = ["safe-to-run"] },
+]
