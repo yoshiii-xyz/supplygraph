@@ -1,0 +1,8 @@
+/target/
+/fuzz/target/
+/fuzz/corpus/
+/fuzz/artifacts/
+/qa/evidence/*
+!/qa/evidence/.gitkeep
+.cargo/
+*.log
