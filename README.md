@@ -2,10 +2,15 @@
 
 Local Rust supply-chain evidence engine.
 
-Status: pre-release validation in progress. The target MVP release is
-`v0.1.0`.
+Status: released `v0.1.0`.
 
 ## Install
+
+From crates.io:
+
+```text
+cargo install supplygraph --locked
+```
 
 From a checkout:
 
