@@ -5,7 +5,7 @@ edition = "2024"
 rust-version = "1.85"
 description = "Join local Rust dependency supply-chain evidence into deterministic reports"
 license = "MIT"
-repository = "https://github.com/joshiii-xyz/supplygraph"
+repository = "https://github.com/yoshiii-xyz/supplygraph"
 keywords = ["cargo", "supply-chain", "advisories", "licenses"]
 categories = ["command-line-utilities", "development-tools"]
 
